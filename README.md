@@ -34,3 +34,5 @@ THE BLOCK DIAGRAM:
 
 THE WORKING SIMULATION ON PROTEUS:
 <img width="975" height="494" alt="image" src="https://github.com/user-attachments/assets/d493afeb-cc69-4a58-b921-67ee8efd9aa1" />
+
+made by me (Qurat Ulain Ahmed, Reg: 2024526) and Rabia Ashraf (teammate)
