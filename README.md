@@ -1,5 +1,9 @@
 # Digital-Logic-Design-Project---DoorBell-with-Visitor-Indication
 
+PROJECT VIDEO: WORKING CIRCUIT (BUT NO SOUND):
+https://github.com/user-attachments/assets/c30af7f5-7279-46f7-b15f-a427bc80f456
+
+
 REPORT: 
 
 Introduction:
